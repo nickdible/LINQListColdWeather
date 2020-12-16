@@ -1,0 +1,13 @@
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.exe
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.deps.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.runtimeconfig.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.runtimeconfig.dev.json
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.dll
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\bin\Debug\netcoreapp3.1\LINQListColdWeather.pdb
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.csprojAssemblyReference.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.AssemblyInfoInputs.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.AssemblyInfo.cs
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.csproj.CoreCompileInputs.cache
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.dll
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.pdb
+\\DACC-File.delawareareacc.org\Student\22Diblen\My Documents\Programming\C# Projects\LINQListColdWeather\LINQListColdWeather\obj\Debug\netcoreapp3.1\LINQListColdWeather.genruntimeconfig.cache
